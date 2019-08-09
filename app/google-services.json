@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "685633196021",
+    "firebase_url": "https://mvvm-68d00.firebaseio.com",
+    "project_id": "mvvm-68d00",
+    "storage_bucket": "mvvm-68d00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685633196021:android:062cf409e3ac45ea",
+        "android_client_info": {
+          "package_name": "kg.pharma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685633196021-hcavkdg255o1ls23fnp93bcop0jec4b8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kg.pharma",
+            "certificate_hash": "1b99bbd329cdcd539cd06dee7d3f5140c00cfaeb"
+          }
+        },
+        {
+          "client_id": "685633196021-i00np22uu3m9gjlgk2e1fd8bk0j37u49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA42AC46QveKY7NPy-DRtLt9az0QLx4uiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685633196021-i00np22uu3m9gjlgk2e1fd8bk0j37u49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
